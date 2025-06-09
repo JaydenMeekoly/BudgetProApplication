@@ -1,5 +1,3 @@
-add this as the final readme for the project: # 📊 BudgetProApplication
-
 Joshua John Pillai - ST10272691
 Jayden Meekoly – ST10306957
 Kyle James Pillay – ST10226298
